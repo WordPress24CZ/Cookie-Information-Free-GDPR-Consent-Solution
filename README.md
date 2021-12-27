@@ -7,7 +7,7 @@
 
 ## Downloads
 
-* [cs.wordpress.org website](https://www.phpbb.cz/stahnout) (Recommended)
+* [cs.wordpress.org website](https://translate.wordpress.org/locale/cs/default/wp-plugins/wp-gdpr-compliance/) (Recommended)
 * [WP24 website](https://wp24.cz/wp-gdpr-compliance)
 * [Github repository](https://github.com/WordPress24CZ/Cookie-Information-Free-GDPR-Consent-Solution/releases) (Latest)
 
